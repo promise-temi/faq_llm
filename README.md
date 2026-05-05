@@ -38,7 +38,7 @@ score ≥ 30 : reformulation de la réponse
 
 Démarche de benchmark
 
-Un benchmark a été mis en place afin d’évaluer la qualité des réponses générées.
+
 
 
 
